@@ -1,0 +1,27 @@
+[
+  {
+    "market_event": "COVID",
+    "crash_factor": -0.9,
+    "recovery_factor": 0.6
+  },
+  {
+    "market_event": "RussiaUkraine",
+    "crash_factor": -0.5,
+    "recovery_factor": 0.3
+  },
+  {
+    "market_event": "AmericanSlowdown",
+    "crash_factor": -0.3,
+    "recovery_factor": 0.4
+  },
+  {
+    "market_event": "TrumpTariff",
+    "crash_factor": -0.4,
+    "recovery_factor": 0.6
+  },
+  {
+    "market_event": "IranWar",
+    "crash_factor": -0.8,
+    "recovery_factor": 0.1
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "aggressive": {
+    "lambda_risk": 0.05,
+    "turnover_penalty": 0.0002,
+    "drawdown_penalty": 0.002
+  },
+  "moderate": {
+    "lambda_risk": 0.12,
+    "turnover_penalty": 0.0005,
+    "drawdown_penalty": 0.008
+  },
+  "conservative": {
+    "lambda_risk": 0.25,
+    "turnover_penalty": 0.001,
+    "drawdown_penalty": 0.02
+  }
+}

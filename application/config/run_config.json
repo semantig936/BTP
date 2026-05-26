@@ -1,0 +1,6 @@
+{
+  "start_date": "2019-01-01",
+  "end_date": "2026-01-31",
+  "train_split": 0.8,
+  "use_sentiment": false
+}

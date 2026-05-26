@@ -1,0 +1,11 @@
+streamlit==1.44.1
+pandas==2.2.3
+numpy==1.26.4
+yfinance==0.2.58
+matplotlib==3.10.1
+seaborn==0.13.2
+pyarrow==19.0.1
+scipy==1.15.2
+gymnasium==0.29.1
+stable-baselines3==2.5.0
+torch==2.6.0
